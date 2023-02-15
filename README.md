@@ -1,4 +1,4 @@
-#A $1 USB RS-232 Adaptor
+# A $1 USB RS-232 Adaptor
 
 RS-232 serial. It's super common when interfacing with test and measure equipment and with microcontrollers. Sometimes, you want a lot of them though, so instead of buying them online, you're best off making them yourself. Plus, these are a little nicer than what you can find online, and a little worse.
 
